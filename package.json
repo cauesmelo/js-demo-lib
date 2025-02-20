@@ -1,0 +1,31 @@
+{
+  "name": "@cauesmelo/mui-flamengo-theme",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc && vite build"
+  },
+  "devDependencies": {
+    "typescript": "~5.7.2",
+    "vite": "^6.1.0",
+    "vite-plugin-dts": "^4.5.0"
+  },
+  "peerDependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.5"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauesmelo/mui-flamengo-theme.git"
+  }
+}
