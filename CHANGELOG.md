@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/cauesmelo/mui-flamengo-theme/compare/v1.1.3...v1.1.4) (2025-02-21)
+
+
+### Bug Fixes
+
+* adjust secondary text font transparency ([d91dcaa](https://github.com/cauesmelo/mui-flamengo-theme/commit/d91dcaabb8003a3fe5689f5ae802a7cc1f337741))
+
 ## [1.1.3](https://github.com/cauesmelo/mui-flamengo-theme/compare/v1.1.2...v1.1.3) (2025-02-21)
 
 
