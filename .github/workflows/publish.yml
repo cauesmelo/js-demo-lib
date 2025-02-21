@@ -1,11 +1,9 @@
 name: Release
 
-# on:
-#   push:
-#     branches:
-#       - main
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions: write-all
 
