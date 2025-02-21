@@ -5,6 +5,9 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "scripts": {
     "build": "tsc && vite build"
   },
@@ -41,7 +44,8 @@
           "assets": [
             "CHANGELOG.md",
             "package.json",
-            "package-lock.json"
+            "package-lock.json",
+            "dist/**/*.{js}"
           ]
         }
       ]
