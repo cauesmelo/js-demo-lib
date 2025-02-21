@@ -45,7 +45,8 @@
             "CHANGELOG.md",
             "package.json",
             "package-lock.json",
-            "dist/**/*.{js}"
+            "dist/**/*.{js,ts}",
+            "dist/**/*.d.ts"
           ]
         }
       ]
