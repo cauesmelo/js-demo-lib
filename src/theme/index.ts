@@ -264,7 +264,7 @@ export const lightTheme = createTheme({
     },
     text: {
       primary: "#000000",
-      secondary: "rgba(0, 0, 0, 0.8)",
+      secondary: "rgba(0, 0, 0, 0.7)",
     },
   },
 });
